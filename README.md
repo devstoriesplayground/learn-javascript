@@ -116,15 +116,13 @@ cd learn-javascript</code></pre>
 
   <hr>
 
-  <h2>📄 License</h2>
-  <p>This project is available under the <strong>MIT License</strong>.</p>
-
-  <hr>
-
-  <h2>👤 About & Contact</h2>
+  <h2>🧑‍💻 About & Contact</h2>
   <p>Created by <strong>devstoriesplayground</strong> – feel free to reach out via GitHub!</p>
 
   <p>Happy coding, and enjoy learning JavaScript! 🚀</p>
+
+  <h2>📜 License</h2>
+  <p>This project is available under the <strong>MIT License</strong>.</p>
 
 </body>
 </html>
